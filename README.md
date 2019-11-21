@@ -31,8 +31,8 @@
 
 ## 🔗 链接
 
-- [个人网站(https://github.com/kurryluo/front-end-interview-guide/raw/master/MEDIA/logo.jpg)](http://www.kurryluo.com/)
-- [知乎(https://static.zhihu.com/heifetz/assets/apple-touch-icon-60.a4a761d4.png)](http://ant.design/docs/react/introduce)
+- [个人网站![logo](https://github.com/kurryluo/front-end-interview-guide/raw/master/MEDIA/logo.jpg)](http://www.kurryluo.com/)
+- [知乎![zhihu](https://static.zhihu.com/heifetz/assets/apple-touch-icon-60.a4a761d4.png)](https://www.zhihu.com/people/kurryluo/activities)
 
 ## 🤝 参与
 
