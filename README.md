@@ -8,7 +8,7 @@
 
 前端面试手册，含 JS，HTML，CSS，算法和数据结构，计算机系统，计算机网络，浏览器，性能优化，前端工程化，数据库，前端框架，小程序，设计模式，数据可视化
 
- 中文版 | [English](./README-EN.md)
+ 中文版 | [English](./README-EN.md) | [pdf]()
  
 ## 每日更新
  - 时间：【2019-11-21】
@@ -21,7 +21,7 @@
 - 真的**全面**
 - 真的**详细**
 - 真的**有用**
-- 真的**陪伴**                                                                                                                                                                           | last 2 versions                                                                                                                                                                                                   | last 2 versions                                                                                                                                                                                               | last 2 versions                                                                                                                                                                                               | last 2 versions                                                                                                                                                                                           | last 2 versions                                                                                                                                                                                                       |
+- 真的**陪伴**
 
 ## 🔨 使用
 
