@@ -1,15 +1,14 @@
 <p align="center">
   <a href="http://www.kurryluo.com/">
-    <img width="200" src="https://github.com/kurryluo/front-end-interview-guide/raw/master/MEDIA/logo.jpg">
+    <img width="100" src="https://github.com/kurryluo/front-end-interview-guide/raw/master/MEDIA/logo.jpg">
   </a>
 </p>
 
 # Front-end-interview-guide
 
-前端面试手册，含JS，HTML，CSS，算法和数据结构，计算机系统，计算机网络，浏览器，性能优化，前端工程化，数据库，前端框架，小程序，设计模式，数据可视化
+前端面试手册，含 JS，HTML，CSS，算法和数据结构，计算机系统，计算机网络，浏览器，性能优化，前端工程化，数据库，前端框架，小程序，设计模式，数据可视化
 
 <div align="center">
-
 
 [![CircleCI branch](https://img.shields.io/circleci/project/github/ant-design/ant-design/master.svg?style=flat-square)](https://circleci.com/gh/ant-design/ant-design) ![CI Status](https://github.com/ant-design/ant-design/workflows/test/badge.svg) [![Codecov](https://img.shields.io/codecov/c/github/ant-design/ant-design/master.svg?style=flat-square)](https://codecov.io/gh/ant-design/ant-design/branch/master) [![](https://flat.badgen.net/npm/v/antd?icon=npm)](https://www.npmjs.com/package/antd) [![](https://badgen.net/npm/v/antd/next)](https://www.npmjs.com/package/antd) [![NPM downloads](http://img.shields.io/npm/dm/antd.svg?style=flat-square)](http://npmjs.com/antd)
 
@@ -19,16 +18,14 @@
 
 </div>
 
-[![](https://cdn-images-1.medium.com/max/2000/1*NIlj0-TdLMbo_hzSBP8tmg.png)](http://ant.design)
-
 English | [简体中文](./README-zh_CN.md)
 
-## ✨ Features
+## ✨ 特点
 
-- An enterprise-class UI design system for web applications.
-- A set of high-quality React components out of the box.
-- Written in TypeScript with predictable static types.
-- The whole package of development and design resources and tools.
+- 真的**很多**
+- 真的**全面**
+- 真的**详细**
+- 真的**有用**
 
 ## 🖥 Environment Support
 
