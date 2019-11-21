@@ -1,7 +1,6 @@
-
 <p align="center">
-  <a href="http://ant.design">
-    <img width="200" src="front-end-interview-guide/MEDIA/logo.jpg">
+  <a href="http://www.kurryluo.com/">
+    <img width="200" src="https://github.com/kurryluo/front-end-interview-guide/raw/master/MEDIA/logo.jpg">
   </a>
 </p>
 
