@@ -35,15 +35,15 @@
 - [知乎](https://www.zhihu.com/people/kurryluo/activities)
 - [微信公众号](https://mp.weixin.qq.com/s/O51fpa_UMSGYJ34QalY9Ug)：可视化技术
 
+## 🤝 参与
+
+如有纰漏，请提交 issue，欢迎讨论。
+
 ## 🍗 赞赏
 
 原创不易，请多多支持：
 
 <p align="center">
-   <img width="240" src="https://github.com/kurryluo/front-end-interview-guide/raw/master/MEDIA/compliment.png">
+   <img width="300" src="https://github.com/kurryluo/front-end-interview-guide/raw/master/MEDIA/compliment.png">
 </p>
 
-
-## 🤝 参与
-
-如有纰漏，请提交 issue，欢迎讨论。
