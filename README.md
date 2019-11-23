@@ -40,7 +40,7 @@
 原创不易，请多多支持：
 
 <p align="center">
-   <img width="200" src="https://github.com/kurryluo/front-end-interview-guide/MEDIA/compliment.png">
+   <img width="240" src="https://github.com/kurryluo/front-end-interview-guide/raw/master/MEDIA/compliment.png">
 </p>
 
 
