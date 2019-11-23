@@ -41,7 +41,7 @@
 
 <p align="center">
   <a href="http://www.kurryluo.com/">
-    <img width="100" src="https://github.com/kurryluo/front-end-interview-guide/MEDIA/compliment.pngg">
+    <img width="100" src="https://github.com/kurryluo/front-end-interview-guide/MEDIA/compliment.png">
   </a>
 </p>
 
