@@ -44,6 +44,6 @@
 原创不易，请多多支持：
 
 <p align="center">
-   <img width="300" src="https://github.com/kurryluo/front-end-interview-guide/raw/master/MEDIA/compliment.png">
+   <img width="360" src="https://github.com/kurryluo/front-end-interview-guide/raw/master/MEDIA/compliment.png">
 </p>
 
