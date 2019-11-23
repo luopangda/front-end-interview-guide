@@ -31,8 +31,20 @@
 
 ## 🔗 链接
 
-- [个人网站![logo](https://github.com/kurryluo/front-end-interview-guide/raw/master/MEDIA/logo.jpg)](http://www.kurryluo.com/)
-- [知乎![zhihu](https://static.zhihu.com/heifetz/assets/apple-touch-icon-60.a4a761d4.png)](https://www.zhihu.com/people/kurryluo/activities)
+- [个人网站](http://www.kurryluo.com/)
+- [知乎](https://www.zhihu.com/people/kurryluo/activities)
+- [微信公众号](https://mp.weixin.qq.com/s/O51fpa_UMSGYJ34QalY9Ug)：可视化技术
+
+## 🍗 赞赏
+
+原创不易，请多多支持：
+
+<p align="center">
+  <a href="http://www.kurryluo.com/">
+    <img width="100" src="https://github.com/kurryluo/front-end-interview-guide/MEDIA/compliment.pngg">
+  </a>
+</p>
+
 
 ## 🤝 参与
 
