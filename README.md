@@ -7,9 +7,7 @@
 # Front-end-interview-guide
 
 前端面试手册，含 JS，HTML，CSS，算法和数据结构，计算机系统，计算机网络，浏览器，性能优化，前端工程化，数据库，前端框架，小程序，设计模式，数据可视化
-<p align="center">
-    <img width="100" src="https://github.com/kurryluo/front-end-interview-guide/raw/master/MEDIA/outline.png">
-</p>
+![](https://github.com/kurryluo/front-end-interview-guide/raw/master/MEDIA/outline.png)
  中文版 | [English](./README-EN.md) | [pdf]()
  
 ## 每日更新
