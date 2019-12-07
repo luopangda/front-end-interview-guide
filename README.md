@@ -49,7 +49,7 @@
 
 ## 🍗 赞赏
 
-原创不易，请多多支持：
+整理不易，请多多支持：
 
 <p align="center">
    <img width="360" src="https://github.com/kurryluo/front-end-interview-guide/raw/master/MEDIA/compliment.png">
