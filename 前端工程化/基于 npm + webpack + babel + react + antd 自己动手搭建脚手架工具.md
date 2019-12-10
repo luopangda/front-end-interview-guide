@@ -13,9 +13,9 @@ npm init 一步步地生成 package.json 文件，在 package.json 文件的 scr
 ```
 
 {
-  "name": "tensor-playground",
+  "name": "test",
   "version": "1.0.0",
-  "description": "By \r [Luo liangkui](http://www.kurryluo.com),\r [Lu yuhuan](),\r [Han yaxiong](), and \r [He Zhaocheng]()",
+  "description": "By \r [KurryLuo](http://www.kurryluo.com)",
   "main": "index.js",
   "scripts": {
     "build": "webpack --config build/webpack.prod.conf.js",
@@ -23,7 +23,7 @@ npm init 一步步地生成 package.json 文件，在 package.json 文件的 scr
   },
   "repository": {
     "type": "git",
-    "url": "https://gitee.com/simulation_group_of_sysu/tensor-playground.git"
+    "url": "http://www.kurryluo.com"
   },
   "keywords": [
     "tensor"
