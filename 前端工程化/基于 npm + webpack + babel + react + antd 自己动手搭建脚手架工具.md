@@ -10,7 +10,7 @@ npm init 一步步地生成 package.json 文件，在 package.json 文件的 scr
 
 包含以下信息：
 
-```json
+```
 
 {
   "name": "tensor-playground",
@@ -46,7 +46,7 @@ npm install --save-dev webpack  webpack-cli
 
 本人安装的 webpage 版本：
 
-```text
+```
 + webpack@4.41.2
 + webpack-cli@3.3.10
 ```
@@ -56,7 +56,7 @@ npm install --save-dev webpack  webpack-cli
 
 
 webpack.base.conf（公共配置）:
-```js
+```
 // webpack.base.conf.js 文件
 const path = require('path'); //node.js 自带的路径参数
 const DIST_PATH = path.resolve(__dirname, '../dist'); // 生产目录
@@ -73,7 +73,7 @@ module.exports = {
 };
 ```
 webpack.dev.conf（开发配置）:
-```js
+```
 // webpack.prod.conf.js 文件
 const merge = require('webpack-merge'); // 合并配置
 const baseWebpackConfig = require('./webpack.base.conf');
@@ -84,7 +84,7 @@ module.exports = merge(baseWebpackConfig, {
 
 webpack.prod.conf（生产配置）:
 
-```js
+```
 // webpack.prod.conf.js 文件
 const merge = require('webpack-merge'); // 合并配置
 const baseWebpackConfig = require('./webpack.base.conf');
@@ -102,7 +102,7 @@ npm install --save-dev webpack-merge
 
 本人使用版本：
 
-```text
+```
 + webpack-merge@4.2.2
 ```
 
@@ -112,14 +112,14 @@ npm install --save-dev webpack-merge
 
 index.js 文件：
 
-```js
+```
 const element =document.getElementById('root');
 element.innerHTML = 'hello, world!';
 ```
 
 index.html 文件：
 
-```html
+```
 
 <!DOCTYPE html>
 <html lang="en">
@@ -138,7 +138,7 @@ index.html 文件：
 
 在 package.json 文件 scripts 属性添加一个 build 命令
 
-```json
+```
 // package.json
 "scripts": {
     "build": "webpack --config build/webpack.prod.conf.js",
@@ -153,7 +153,7 @@ index.html 文件：
 > javascript在不断的发展，各种新的标准和提案层出不穷，但是由于浏览器的多样性，导致可能几年之内都无法广泛普及，babel可以让你提前使用这些语言特性，他是一种用途很多的javascript编译器，他把最新版的javascript编译成当下可以执行的版本，简言之，利用Babel就可以让我们在当前的项目中，随意地使用最新的ES6，甚至ES7的语法。
 
 为了避免版本问题，建议复制以下代码到 package.json 中，直接进行 npm install
-```json
+```
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
@@ -171,7 +171,7 @@ index.html 文件：
 
 创建 .babelrc 文件，配置 presets
 
-```json
+```
 {
   "presets": [
 	 "env",
@@ -182,7 +182,7 @@ index.html 文件：
 
 修改 webpack.base.conf.js 文件，添加 module 属性
 
-```js
+```
 // webpack.base.conf.js
 const path = require('path');
 const APP_PATH = path.resolve(__dirname, '../src');
@@ -215,7 +215,7 @@ module.exports = {
 
 控制台会提示：
 
-```text
+```
 webpack --config build/webpack.prod.conf.js
 
 Hash: 312e49a5d9b2de29b485
@@ -236,7 +236,7 @@ npm install react react-dom -S
 
 对 index.js 文件进行编辑
 
-```js
+```
 import React from "react";
 import ReactDom from "react-dom";
 
@@ -244,6 +244,7 @@ ReactDom.render(
     <h1>hello, world!</h1>,
     document.getElementById("root")
 );
+```
 
 ## 05 安装 webpack 插件 HtmlWebpackPlugin。
 
@@ -253,13 +254,13 @@ npm install --save-dev html-webpack-plugin
 
 安装版本：
 
-```text
+```
 + html-webpack-plugin@3.2.0
 ```
 
 修改 public 中的 index.html 文件如下：
 
-```html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -278,7 +279,7 @@ npm install --save-dev html-webpack-plugin
 
 紧接着添加 webpack.prod.conf.js 中配置 plugins 属性
 
-```json
+```
 // webpack.prod.conf.js 文件
 const merge = require('webpack-merge'); // 合并配置
 const baseWebpackConfig = require('./webpack.base.conf');
@@ -525,14 +526,14 @@ npm install --save-dev file-loader url-loader
 
 版本：
 
-```text
+```
 + file-loader@4.3.0
 + url-loader@2.3.0
 ```
 
 在 rules 中，加入规则：
 
-```json
+```
             {
                 test: /\.(png|jpg|gif)$/,
                 use: [{
@@ -589,13 +590,13 @@ npm install --save-dev webpack-bundle-analyzer
 
 版本：
 
-```text
+```
 + webpack-bundle-analyzer@3.6.0
 ```
 
 修改 webpack.prod.conf.js 文件，变成如下：
 
-```js
+```
 // webpack.prod.conf.js 文件
 const merge = require('webpack-merge'); // 合并配置
 const baseWebpackConfig = require('./webpack.base.conf');
@@ -633,7 +634,7 @@ npm install --save antd
 
 版本：
 
-```text
+```
 + antd@3.25.3
 ```
 
