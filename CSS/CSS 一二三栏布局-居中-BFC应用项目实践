@@ -45,15 +45,15 @@ React.render((
 
 React Router 提供了三种类型的组件：
 - router components，路由器组件：创建一个 history 对象
-  - <BrowserRouter> ：高级组件，有一个响应请求的服务器情况下使用
-  - <HashRouter> ：高级组件，使用的是静态文件的服务器情况下使用
+  - \<BrowserRouter>：高级组件，有一个响应请求的服务器情况下使用
+  - \<HashRouter> ：高级组件，使用的是静态文件的服务器情况下使用
 - route components，路由组件
-  - <Route>：作用是在 location 和 path 属性匹配时在此处渲染 React 组件。通过 component、render 和 children 三个属性来指向渲染组件，component 属性通常指向一个现存的组件，render 只有在需要传递参数给渲染组件时使用。如 Route 没有 path，会一直与它最近的父级匹配
-  - <Switch>：Switch 不是必须的，用于将 Route 组件分组并选择一个与当前地址匹配的第一个 Route
+  - \<Route>：作用是在 location 和 path 属性匹配时在此处渲染 React 组件。通过 component、render 和 children 三个属性来指向渲染组件，component 属性通常指向一个现存的组件，render 只有在需要传递参数给渲染组件时使用。如 Route 没有 path，会一直与它最近的父级匹配
+  - \<Switch>：Switch 不是必须的，用于将 Route 组件分组并选择一个与当前地址匹配的第一个 Route
 - navigation components，导航组件
-  - <Link>：会在 Html 中创建一个 a 标签，to 属性指向一个导航地址
-  - <NavLink>
-  - <Redirect>
+  - \<Link>：会在 Html 中创建一个 a 标签，to 属性指向一个导航地址
+  - \<NavLink>
+  - \<Redirect>
 
 React Router 的 Hooks：
 
