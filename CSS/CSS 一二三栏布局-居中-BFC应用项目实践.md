@@ -1,3 +1,9 @@
+> 此实战资料由 kurryluo 整理，用于自学前端群成员
+> 
+> 更多知识点：请访问 Github 项目：[https://github.com/kurryluo/front-end-interview-guide](https://github.com/kurryluo/front-end-interview-guide) 
+> 
+> 听说给了 star 的人都找到工作，升职加薪了~
+
 本项目源码见：[css-learning-guide](https://github.com/kurryluo/css-learning-guide.git)
 
 脚手架工具的安装请看：[基于 npm + webpack + babel + react + antd 自己动手搭建脚手架工具](https://github.com/kurryluo/front-end-interview-guide/blob/master/%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%8C%96/%E5%9F%BA%E4%BA%8E%20npm%20%2B%20webpack%20%2B%20babel%20%2B%20react%20%2B%20antd%20%E8%87%AA%E5%B7%B1%E5%8A%A8%E6%89%8B%E6%90%AD%E5%BB%BA%E8%84%9A%E6%89%8B%E6%9E%B6%E5%B7%A5%E5%85%B7.md)
