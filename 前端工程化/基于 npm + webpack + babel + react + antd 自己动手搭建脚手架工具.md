@@ -1,4 +1,4 @@
-> 此试题由 kurryluo 整理，用于自学前端群成员
+> 此实战资料由 kurryluo 整理，用于自学前端群成员
 > 
 > 更多知识点：请访问 Github 项目：[https://github.com/kurryluo/front-end-interview-guide](https://github.com/kurryluo/front-end-interview-guide) 
 > 
